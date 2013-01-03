@@ -1,0 +1,127 @@
+body { 
+    color:#8D8D8D;
+    font:12px/18px "DejaVu","Vera",sans-serif;
+    line-height:22px;
+    margin:0;
+    padding:20px 0 0;
+}
+
+h1, h2 {
+    font-size:1em;
+    font-style:normal;
+    font-weight:normal;
+}
+
+a:link, a:visited {
+    color:#319FFF;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#726F61;
+    text-decoration:none;
+}
+
+#hd1 {
+    margin:auto;
+    width: 80%;
+}
+
+#hd1 {
+    position: relative;
+    left: 10% ;
+    top: 5% ;
+    height:100px;
+}
+
+#hd1 .mascotte-logo {
+    border:medium none;
+    margin-right:20px;
+}
+
+#hd1 hgroupe {
+    display: inline-block;
+    vertical-align: top;
+    color:#55555;
+    margin:auto;
+}
+
+#hd1 hgroupe h1 {
+    color: #666666;
+    float: left;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#hd1 hgroupe h2 {
+    font-size:14px;
+}
+
+#hd1 h3 {
+    font-size:14px;
+    float: right;
+    margin: 10px;
+    border: solid;
+    border-radius:5px;
+    padding:10px;
+}
+
+#hd1 h3 photo {
+    float: left;
+}
+
+#hd1 h4 {
+    float: left;
+    width:100px;
+    text-shadow:2px;
+    text-align:center;
+    border: solid;
+    border-width:2px;
+    border-color:black;
+    border-radius:90px;
+}
+
+nav {
+    width:60%;
+    margin-left: 10%;
+    border-radius: 5px; 
+    border-top: 1px solid #E1E2E3;
+    border-bottom: 1px solid #E4E5E6;
+    border-right: 5px solid #E1E2E3;
+    border-left: 4px solid #E4E5E6;
+    color: #4D4D4D;
+    font-size: 13px;
+    font-weight: bold;	
+}
+
+nav a:hover {
+    text-shadow: 1px 1px 2px grey;
+}
+
+nav a {
+    width: 50px;
+    border-right: 1px solid #E1E2E3;
+    border-left: 1px solid #E4E5E6;
+    text-align: justify;
+    padding: 2px 2px 2px 2px;
+}
+
+section {
+    margin:auto;
+    padding:auto;
+    width: 80%;
+}
+
+illustration object {
+    float:left;
+    size:50%;
+    max-width:60%;
+}
+
+form {
+    size:50%;
+    margin:10px 10px 10px 10px;
+    padding:10px 10px 10px 10px;
+}
+
+
