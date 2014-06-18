@@ -93,12 +93,12 @@ user
 				/* Modification de l'objet */
 				$this->_adresse_mail = $nouveau_mail;
 				
-				echo "y'a pas une couille ";
+				echo "Debug ";
 				return 0;
 			}
 			else 
 			{
-				echo "y'a une couille et un sanglier dans la mosqué";
+				echo "Debug fail";
 				return 1;
 			}
         }
